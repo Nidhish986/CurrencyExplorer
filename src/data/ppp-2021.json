@@ -1,0 +1,1415 @@
+{
+  "indicatorCode": "PA.NUS.PPP",
+  "vintageYear": 2021,
+  "source": "https://api.worldbank.org/v2/country/all/indicator/PA.NUS.PPP?format=json&date=2021&per_page=20000",
+  "sourceDataset": "World Bank ICP 2021 round - PPP conversion factor, GDP (LCU per international $)",
+  "entries": [
+    {
+      "countryCode": "AD",
+      "year": 2021,
+      "pppConversionFactor": 0.604573547840118,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AE",
+      "year": 2021,
+      "pppConversionFactor": 2.36256718635559,
+      "currencyCode": "AED",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AF",
+      "year": 2021,
+      "pppConversionFactor": 14.5879421234131,
+      "currencyCode": "AFN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AG",
+      "year": 2021,
+      "pppConversionFactor": 1.81939482688904,
+      "currencyCode": "XCD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AL",
+      "year": 2021,
+      "pppConversionFactor": 41.1655084684252,
+      "currencyCode": "ALL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AM",
+      "year": 2021,
+      "pppConversionFactor": 148.241226196289,
+      "currencyCode": "AMD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AO",
+      "year": 2021,
+      "pppConversionFactor": 174.090515136719,
+      "currencyCode": "AOA",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AR",
+      "year": 2021,
+      "pppConversionFactor": 38.783332824707,
+      "currencyCode": "ARS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AT",
+      "year": 2021,
+      "pppConversionFactor": 0.72035,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AU",
+      "year": 2021,
+      "pppConversionFactor": 1.395724,
+      "currencyCode": "AUD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AW",
+      "year": 2021,
+      "pppConversionFactor": 1.36395359039307,
+      "currencyCode": "AWG",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "AZ",
+      "year": 2021,
+      "pppConversionFactor": 0.457138150930405,
+      "currencyCode": "AZN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BA",
+      "year": 2021,
+      "pppConversionFactor": 0.65969527895829,
+      "currencyCode": "BAM",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BB",
+      "year": 2021,
+      "pppConversionFactor": 2.38420343399048,
+      "currencyCode": "BBD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BD",
+      "year": 2021,
+      "pppConversionFactor": 28.296688079834,
+      "currencyCode": "BDT",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BE",
+      "year": 2021,
+      "pppConversionFactor": 0.719916,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BF",
+      "year": 2021,
+      "pppConversionFactor": 199.724746704102,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BG",
+      "year": 2021,
+      "pppConversionFactor": 0.35413555036835,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BH",
+      "year": 2021,
+      "pppConversionFactor": 0.185745358467102,
+      "currencyCode": "BHD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BI",
+      "year": 2021,
+      "pppConversionFactor": 609.599182128906,
+      "currencyCode": "BIF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BJ",
+      "year": 2021,
+      "pppConversionFactor": 211.106674194336,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BM",
+      "year": 2021,
+      "pppConversionFactor": 1.22146320343018,
+      "currencyCode": "BMD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BN",
+      "year": 2021,
+      "pppConversionFactor": 0.532498598098755,
+      "currencyCode": "BND",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BO",
+      "year": 2021,
+      "pppConversionFactor": 2.473956823349,
+      "currencyCode": "BOB",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BR",
+      "year": 2021,
+      "pppConversionFactor": 2.37927412986755,
+      "currencyCode": "BRL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BS",
+      "year": 2021,
+      "pppConversionFactor": 0.977568686008453,
+      "currencyCode": "BSD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BT",
+      "year": 2021,
+      "pppConversionFactor": 19.6103916168213,
+      "currencyCode": "BTN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BW",
+      "year": 2021,
+      "pppConversionFactor": 4.81988048553467,
+      "currencyCode": "BWP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BY",
+      "year": 2021,
+      "pppConversionFactor": 0.688632726669312,
+      "currencyCode": "BYN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "BZ",
+      "year": 2021,
+      "pppConversionFactor": 1.04862034320831,
+      "currencyCode": "BZD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CA",
+      "year": 2021,
+      "pppConversionFactor": 1.163492,
+      "currencyCode": "CAD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CD",
+      "year": 2021,
+      "pppConversionFactor": 845.45068359375,
+      "currencyCode": "CDF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CF",
+      "year": 2021,
+      "pppConversionFactor": 241.880676269531,
+      "currencyCode": "XAF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CG",
+      "year": 2021,
+      "pppConversionFactor": 222.775375366211,
+      "currencyCode": "XAF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CH",
+      "year": 2021,
+      "pppConversionFactor": 1.056712,
+      "currencyCode": "CHF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CI",
+      "year": 2021,
+      "pppConversionFactor": 225.288803100586,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CL",
+      "year": 2021,
+      "pppConversionFactor": 423.013786,
+      "currencyCode": "CLP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CM",
+      "year": 2021,
+      "pppConversionFactor": 193.458953857422,
+      "currencyCode": "XAF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CN",
+      "year": 2021,
+      "pppConversionFactor": 3.98740887641907,
+      "currencyCode": "CNY",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CO",
+      "year": 2021,
+      "pppConversionFactor": 1340.326407,
+      "currencyCode": "COP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CR",
+      "year": 2021,
+      "pppConversionFactor": 334.118676,
+      "currencyCode": "CRC",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CV",
+      "year": 2021,
+      "pppConversionFactor": 48.1704940795898,
+      "currencyCode": "CVE",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CW",
+      "year": 2021,
+      "pppConversionFactor": 1.27898454666138,
+      "currencyCode": "ANG",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CY",
+      "year": 2021,
+      "pppConversionFactor": 0.584657651965893,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "CZ",
+      "year": 2021,
+      "pppConversionFactor": 12.56189,
+      "currencyCode": "CZK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "DE",
+      "year": 2021,
+      "pppConversionFactor": 0.706697,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "DJ",
+      "year": 2021,
+      "pppConversionFactor": 90.2278900146484,
+      "currencyCode": "DJF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "DK",
+      "year": 2021,
+      "pppConversionFactor": 6.288268,
+      "currencyCode": "DKK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "DM",
+      "year": 2021,
+      "pppConversionFactor": 1.43059825897217,
+      "currencyCode": "XCD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "DO",
+      "year": 2021,
+      "pppConversionFactor": 22.1248188018799,
+      "currencyCode": "DOP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "DZ",
+      "year": 2021,
+      "pppConversionFactor": 38.7630996704102,
+      "currencyCode": "DZD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "EC",
+      "year": 2021,
+      "pppConversionFactor": 0.448739469051361,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "EE",
+      "year": 2021,
+      "pppConversionFactor": 0.5341,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "EG",
+      "year": 2021,
+      "pppConversionFactor": 3.8546199798584,
+      "currencyCode": "EGP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ER",
+      "year": 2021,
+      "pppConversionFactor": 4.93847894668579,
+      "currencyCode": "ERN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ES",
+      "year": 2021,
+      "pppConversionFactor": 0.58847,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ET",
+      "year": 2021,
+      "pppConversionFactor": 13.7311124801636,
+      "currencyCode": "ETB",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "FI",
+      "year": 2021,
+      "pppConversionFactor": 0.790539,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "FJ",
+      "year": 2021,
+      "pppConversionFactor": 0.910048425197601,
+      "currencyCode": "FJD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "FM",
+      "year": 2021,
+      "pppConversionFactor": 0.886870916030328,
+      "currencyCode": "",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "FO",
+      "year": 2021,
+      "pppConversionFactor": 6.37792730331421,
+      "currencyCode": "DKK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "FR",
+      "year": 2021,
+      "pppConversionFactor": 0.703945,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GA",
+      "year": 2021,
+      "pppConversionFactor": 244.922546386719,
+      "currencyCode": "XAF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GB",
+      "year": 2021,
+      "pppConversionFactor": 0.668934,
+      "currencyCode": "GBP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GD",
+      "year": 2021,
+      "pppConversionFactor": 1.69825077056885,
+      "currencyCode": "XCD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GE",
+      "year": 2021,
+      "pppConversionFactor": 0.865621149539948,
+      "currencyCode": "GEL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GH",
+      "year": 2021,
+      "pppConversionFactor": 2.14874577522278,
+      "currencyCode": "GHS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GL",
+      "year": 2021,
+      "pppConversionFactor": 5.2741265296936,
+      "currencyCode": "DKK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GM",
+      "year": 2021,
+      "pppConversionFactor": 14.7418222427368,
+      "currencyCode": "GMD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GN",
+      "year": 2021,
+      "pppConversionFactor": 3108.34375,
+      "currencyCode": "GNF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GQ",
+      "year": 2021,
+      "pppConversionFactor": 228.967514038086,
+      "currencyCode": "XAF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GR",
+      "year": 2021,
+      "pppConversionFactor": 0.520812,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GT",
+      "year": 2021,
+      "pppConversionFactor": 3.21316480636597,
+      "currencyCode": "GTQ",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GW",
+      "year": 2021,
+      "pppConversionFactor": 203.716125488281,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "GY",
+      "year": 2021,
+      "pppConversionFactor": 89.9150695800781,
+      "currencyCode": "GYD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "HK",
+      "year": 2021,
+      "pppConversionFactor": 5.87204074859619,
+      "currencyCode": "HKD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "HN",
+      "year": 2021,
+      "pppConversionFactor": 10.5899238586426,
+      "currencyCode": "HNL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "HR",
+      "year": 2021,
+      "pppConversionFactor": 0.407277953564341,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "HT",
+      "year": 2021,
+      "pppConversionFactor": 47.4995269775391,
+      "currencyCode": "HTG",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "HU",
+      "year": 2021,
+      "pppConversionFactor": 148.351175,
+      "currencyCode": "HUF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ID",
+      "year": 2021,
+      "pppConversionFactor": 4808.42919921875,
+      "currencyCode": "IDR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IE",
+      "year": 2021,
+      "pppConversionFactor": 0.751895,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IL",
+      "year": 2021,
+      "pppConversionFactor": 3.657664,
+      "currencyCode": "ILS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IN",
+      "year": 2021,
+      "pppConversionFactor": 20.7278957366943,
+      "currencyCode": "INR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IQ",
+      "year": 2021,
+      "pppConversionFactor": 554.465393066406,
+      "currencyCode": "IQD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IR",
+      "year": 2021,
+      "pppConversionFactor": 50488.171875,
+      "currencyCode": "IRR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IS",
+      "year": 2021,
+      "pppConversionFactor": 142.588157,
+      "currencyCode": "ISK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "IT",
+      "year": 2021,
+      "pppConversionFactor": 0.625356,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "JM",
+      "year": 2021,
+      "pppConversionFactor": 81.3269805908203,
+      "currencyCode": "JMD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "JO",
+      "year": 2021,
+      "pppConversionFactor": 0.323472499847412,
+      "currencyCode": "JOD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "JP",
+      "year": 2021,
+      "pppConversionFactor": 99.211289,
+      "currencyCode": "JPY",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KE",
+      "year": 2021,
+      "pppConversionFactor": 42.3316535949707,
+      "currencyCode": "KES",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KG",
+      "year": 2021,
+      "pppConversionFactor": 19.9189929962158,
+      "currencyCode": "KGS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KH",
+      "year": 2021,
+      "pppConversionFactor": 1426.95983886719,
+      "currencyCode": "KHR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KI",
+      "year": 2021,
+      "pppConversionFactor": 0.97877842181364,
+      "currencyCode": "AUD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KM",
+      "year": 2021,
+      "pppConversionFactor": 191.480773925781,
+      "currencyCode": "KMF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KN",
+      "year": 2021,
+      "pppConversionFactor": 1.84317195415497,
+      "currencyCode": "XCD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KR",
+      "year": 2021,
+      "pppConversionFactor": 829.867766,
+      "currencyCode": "KRW",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KW",
+      "year": 2021,
+      "pppConversionFactor": 0.202588081359863,
+      "currencyCode": "KWD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KY",
+      "year": 2021,
+      "pppConversionFactor": 0.971421658992767,
+      "currencyCode": "KYD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "KZ",
+      "year": 2021,
+      "pppConversionFactor": 129.063003540039,
+      "currencyCode": "KZT",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LA",
+      "year": 2021,
+      "pppConversionFactor": 3031.69677734375,
+      "currencyCode": "LAK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LB",
+      "year": 2021,
+      "pppConversionFactor": 4099.5078125,
+      "currencyCode": "LBP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LC",
+      "year": 2021,
+      "pppConversionFactor": 1.47842586040497,
+      "currencyCode": "XCD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LK",
+      "year": 2021,
+      "pppConversionFactor": 55.5265464782715,
+      "currencyCode": "LKR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LR",
+      "year": 2021,
+      "pppConversionFactor": 0.433967147111521,
+      "currencyCode": "LRD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LS",
+      "year": 2021,
+      "pppConversionFactor": 6.19413948059082,
+      "currencyCode": "LSL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LT",
+      "year": 2021,
+      "pppConversionFactor": 0.439956,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LU",
+      "year": 2021,
+      "pppConversionFactor": 0.834326,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LV",
+      "year": 2021,
+      "pppConversionFactor": 0.464112,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "LY",
+      "year": 2021,
+      "pppConversionFactor": 1.76263952255249,
+      "currencyCode": "LYD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MA",
+      "year": 2021,
+      "pppConversionFactor": 3.94628071784973,
+      "currencyCode": "MAD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MD",
+      "year": 2021,
+      "pppConversionFactor": 5.94675874710083,
+      "currencyCode": "MDL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ME",
+      "year": 2021,
+      "pppConversionFactor": 0.332482720892195,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MG",
+      "year": 2021,
+      "pppConversionFactor": 1173.85522460938,
+      "currencyCode": "MGA",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MH",
+      "year": 2021,
+      "pppConversionFactor": 0.932999594999854,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MK",
+      "year": 2021,
+      "pppConversionFactor": 17.9306733247551,
+      "currencyCode": "MKD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ML",
+      "year": 2021,
+      "pppConversionFactor": 203.722534179688,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MM",
+      "year": 2021,
+      "pppConversionFactor": 410.472595214844,
+      "currencyCode": "MMK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MN",
+      "year": 2021,
+      "pppConversionFactor": 870.184753417969,
+      "currencyCode": "MNT",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MO",
+      "year": 2021,
+      "pppConversionFactor": 4.89717441121879,
+      "currencyCode": "MOP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MR",
+      "year": 2021,
+      "pppConversionFactor": 12.035120010376,
+      "currencyCode": "MRU",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MT",
+      "year": 2021,
+      "pppConversionFactor": 0.566569294757016,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MU",
+      "year": 2021,
+      "pppConversionFactor": 16.6290760040283,
+      "currencyCode": "MUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MV",
+      "year": 2021,
+      "pppConversionFactor": 8.21066951751709,
+      "currencyCode": "MVR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MW",
+      "year": 2021,
+      "pppConversionFactor": 294.85791015625,
+      "currencyCode": "MWK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MX",
+      "year": 2021,
+      "pppConversionFactor": 10.060857,
+      "currencyCode": "MXN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MY",
+      "year": 2021,
+      "pppConversionFactor": 1.5147716999054,
+      "currencyCode": "MYR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "MZ",
+      "year": 2021,
+      "pppConversionFactor": 22.907154083252,
+      "currencyCode": "MZN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NA",
+      "year": 2021,
+      "pppConversionFactor": 6.71698379516602,
+      "currencyCode": "NAD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NE",
+      "year": 2021,
+      "pppConversionFactor": 212.888137817383,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NG",
+      "year": 2021,
+      "pppConversionFactor": 146.717681884766,
+      "currencyCode": "NGN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NI",
+      "year": 2021,
+      "pppConversionFactor": 10.564323425293,
+      "currencyCode": "NIO",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NL",
+      "year": 2021,
+      "pppConversionFactor": 0.741535,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NO",
+      "year": 2021,
+      "pppConversionFactor": 8.984704,
+      "currencyCode": "NOK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NP",
+      "year": 2021,
+      "pppConversionFactor": 32.4816780090332,
+      "currencyCode": "NPR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NR",
+      "year": 2021,
+      "pppConversionFactor": 1.41003609186483,
+      "currencyCode": "AUD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "NZ",
+      "year": 2021,
+      "pppConversionFactor": 1.463664,
+      "currencyCode": "NZD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "OM",
+      "year": 2021,
+      "pppConversionFactor": 0.192684262990952,
+      "currencyCode": "OMR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PA",
+      "year": 2021,
+      "pppConversionFactor": 0.501403868198395,
+      "currencyCode": "PAB",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PE",
+      "year": 2021,
+      "pppConversionFactor": 1.73354005813599,
+      "currencyCode": "PEN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PG",
+      "year": 2021,
+      "pppConversionFactor": 2.30067387267731,
+      "currencyCode": "PGK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PH",
+      "year": 2021,
+      "pppConversionFactor": 19.37526512146,
+      "currencyCode": "PHP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PK",
+      "year": 2021,
+      "pppConversionFactor": 43.4407234191895,
+      "currencyCode": "PKR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PL",
+      "year": 2021,
+      "pppConversionFactor": 1.752789,
+      "currencyCode": "PLN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PR",
+      "year": 2021,
+      "pppConversionFactor": 0.804228127002716,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PS",
+      "year": 2021,
+      "pppConversionFactor": 0.649577372979557,
+      "currencyCode": "EGP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PT",
+      "year": 2021,
+      "pppConversionFactor": 0.540472,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PW",
+      "year": 2021,
+      "pppConversionFactor": 0.813348027157891,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "PY",
+      "year": 2021,
+      "pppConversionFactor": 2628.08447265625,
+      "currencyCode": "PYG",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "QA",
+      "year": 2021,
+      "pppConversionFactor": 2.23547983169556,
+      "currencyCode": "QAR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "RO",
+      "year": 2021,
+      "pppConversionFactor": 1.65245949033591,
+      "currencyCode": "RON",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "RS",
+      "year": 2021,
+      "pppConversionFactor": 41.1088009550821,
+      "currencyCode": "RSD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "RU",
+      "year": 2021,
+      "pppConversionFactor": 23.6851463317871,
+      "currencyCode": "RUB",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "RW",
+      "year": 2021,
+      "pppConversionFactor": 300.028503417969,
+      "currencyCode": "RWF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SA",
+      "year": 2021,
+      "pppConversionFactor": 1.9094260931015,
+      "currencyCode": "SAR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SB",
+      "year": 2021,
+      "pppConversionFactor": 6.6970753509944,
+      "currencyCode": "SBD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SC",
+      "year": 2021,
+      "pppConversionFactor": 8.45630931854248,
+      "currencyCode": "SCR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SD",
+      "year": 2021,
+      "pppConversionFactor": 85.7226867675781,
+      "currencyCode": "SDG",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SE",
+      "year": 2021,
+      "pppConversionFactor": 8.363733,
+      "currencyCode": "SEK",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SG",
+      "year": 2021,
+      "pppConversionFactor": 0.811010360717773,
+      "currencyCode": "SGD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SI",
+      "year": 2021,
+      "pppConversionFactor": 0.537477,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SK",
+      "year": 2021,
+      "pppConversionFactor": 0.487999,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SL",
+      "year": 2021,
+      "pppConversionFactor": 3.24386401367188,
+      "currencyCode": "SLL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SM",
+      "year": 2021,
+      "pppConversionFactor": 0.707382142543793,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SN",
+      "year": 2021,
+      "pppConversionFactor": 212.330551147461,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SO",
+      "year": 2021,
+      "pppConversionFactor": 10268.4174304023,
+      "currencyCode": "SOS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SR",
+      "year": 2021,
+      "pppConversionFactor": 5.3682279586792,
+      "currencyCode": "SRD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SS",
+      "year": 2021,
+      "pppConversionFactor": 126.743049621582,
+      "currencyCode": "SSP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ST",
+      "year": 2021,
+      "pppConversionFactor": 8.59929370880127,
+      "currencyCode": "STN",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SV",
+      "year": 2021,
+      "pppConversionFactor": 0.429484784603119,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SX",
+      "year": 2021,
+      "pppConversionFactor": 1.43830955028534,
+      "currencyCode": "ANG",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SY",
+      "year": 2021,
+      "pppConversionFactor": 417.322418212891,
+      "currencyCode": "SYP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "SZ",
+      "year": 2021,
+      "pppConversionFactor": 5.89536285400391,
+      "currencyCode": "SZL",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TC",
+      "year": 2021,
+      "pppConversionFactor": 1.09070706367493,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TD",
+      "year": 2021,
+      "pppConversionFactor": 215.510940551758,
+      "currencyCode": "XAF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TG",
+      "year": 2021,
+      "pppConversionFactor": 202.174468994141,
+      "currencyCode": "XOF",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TH",
+      "year": 2021,
+      "pppConversionFactor": 11.1481275558472,
+      "currencyCode": "THB",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TJ",
+      "year": 2021,
+      "pppConversionFactor": 2.5442578792572,
+      "currencyCode": "TJS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TL",
+      "year": 2021,
+      "pppConversionFactor": 0.393393218517303,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TM",
+      "year": 2021,
+      "pppConversionFactor": 1.50170361995697,
+      "currencyCode": "TMT",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TN",
+      "year": 2021,
+      "pppConversionFactor": 0.87733256816864,
+      "currencyCode": "TND",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TO",
+      "year": 2021,
+      "pppConversionFactor": 1.6181267936974,
+      "currencyCode": "TOP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TR",
+      "year": 2021,
+      "pppConversionFactor": 2.751633,
+      "currencyCode": "TRY",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TT",
+      "year": 2021,
+      "pppConversionFactor": 3.92725038528442,
+      "currencyCode": "TTD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TV",
+      "year": 2021,
+      "pppConversionFactor": 1.44888778782138,
+      "currencyCode": "AUD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "TZ",
+      "year": 2021,
+      "pppConversionFactor": 762.958374023438,
+      "currencyCode": "TZS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "UA",
+      "year": 2021,
+      "pppConversionFactor": 7.302161693573,
+      "currencyCode": "UAH",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "UG",
+      "year": 2021,
+      "pppConversionFactor": 1203.16076660156,
+      "currencyCode": "UGX",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "US",
+      "year": 2021,
+      "pppConversionFactor": 1,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "UY",
+      "year": 2021,
+      "pppConversionFactor": 26.462287902832,
+      "currencyCode": "UYU",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "UZ",
+      "year": 2021,
+      "pppConversionFactor": 2591.1123046875,
+      "currencyCode": "UZS",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "VC",
+      "year": 2021,
+      "pppConversionFactor": 1.44013321399689,
+      "currencyCode": "XCD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "VI",
+      "year": 2021,
+      "pppConversionFactor": 0.907823741436005,
+      "currencyCode": "USD",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "VN",
+      "year": 2021,
+      "pppConversionFactor": 7120.01123046875,
+      "currencyCode": "VND",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "VU",
+      "year": 2021,
+      "pppConversionFactor": 110.380247621036,
+      "currencyCode": "VUV",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "WS",
+      "year": 2021,
+      "pppConversionFactor": 1.62781286300372,
+      "currencyCode": "WST",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "XK",
+      "year": 2021,
+      "pppConversionFactor": 0.360406752216835,
+      "currencyCode": "EUR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ZA",
+      "year": 2021,
+      "pppConversionFactor": 7.37613821029663,
+      "currencyCode": "ZAR",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ZM",
+      "year": 2021,
+      "pppConversionFactor": 6.44128704071045,
+      "currencyCode": "ZMW",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    },
+    {
+      "countryCode": "ZW",
+      "year": 2021,
+      "pppConversionFactor": 0.0243634228799343,
+      "currencyCode": "BWP",
+      "sourceDataset": "World Bank ICP 2021 round - PA.NUS.PPP, PPP conversion factor, GDP (LCU per international $)"
+    }
+  ]
+}

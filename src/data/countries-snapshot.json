@@ -1,0 +1,3872 @@
+{
+  "generatedAt": "2026-07-13T14:17:09.785Z",
+  "source": "https://raw.githubusercontent.com/mledoze/countries/master/countries.json",
+  "flagSource": "https://flagcdn.com/{lowercase-cca2}.svg",
+  "adapter": "mledoze/countries -> PRD Country contract",
+  "countries": [
+    {
+      "cca2": "AF",
+      "name": "Afghanistan",
+      "flagUrl": "https://flagcdn.com/af.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "AFN",
+          "name": "Afghan afghani",
+          "symbol": "؋",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AX",
+      "name": "Åland Islands",
+      "flagUrl": "https://flagcdn.com/ax.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AL",
+      "name": "Albania",
+      "flagUrl": "https://flagcdn.com/al.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "ALL",
+          "name": "Albanian lek",
+          "symbol": "L",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "DZ",
+      "name": "Algeria",
+      "flagUrl": "https://flagcdn.com/dz.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "DZD",
+          "name": "Algerian dinar",
+          "symbol": "د.ج",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AS",
+      "name": "American Samoa",
+      "flagUrl": "https://flagcdn.com/as.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AD",
+      "name": "Andorra",
+      "flagUrl": "https://flagcdn.com/ad.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AO",
+      "name": "Angola",
+      "flagUrl": "https://flagcdn.com/ao.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "AOA",
+          "name": "Angolan kwanza",
+          "symbol": "Kz",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AI",
+      "name": "Anguilla",
+      "flagUrl": "https://flagcdn.com/ai.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AG",
+      "name": "Antigua and Barbuda",
+      "flagUrl": "https://flagcdn.com/ag.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AR",
+      "name": "Argentina",
+      "flagUrl": "https://flagcdn.com/ar.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "ARS",
+          "name": "Argentine peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AM",
+      "name": "Armenia",
+      "flagUrl": "https://flagcdn.com/am.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "AMD",
+          "name": "Armenian dram",
+          "symbol": "֏",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AW",
+      "name": "Aruba",
+      "flagUrl": "https://flagcdn.com/aw.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "AWG",
+          "name": "Aruban florin",
+          "symbol": "ƒ",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AU",
+      "name": "Australia",
+      "flagUrl": "https://flagcdn.com/au.svg",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AT",
+      "name": "Austria",
+      "flagUrl": "https://flagcdn.com/at.svg",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AZ",
+      "name": "Azerbaijan",
+      "flagUrl": "https://flagcdn.com/az.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "AZN",
+          "name": "Azerbaijani manat",
+          "symbol": "₼",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BS",
+      "name": "Bahamas",
+      "flagUrl": "https://flagcdn.com/bs.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "BSD",
+          "name": "Bahamian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BH",
+      "name": "Bahrain",
+      "flagUrl": "https://flagcdn.com/bh.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "BHD",
+          "name": "Bahraini dinar",
+          "symbol": ".د.ب",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "BD",
+      "name": "Bangladesh",
+      "flagUrl": "https://flagcdn.com/bd.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "BDT",
+          "name": "Bangladeshi taka",
+          "symbol": "৳",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BB",
+      "name": "Barbados",
+      "flagUrl": "https://flagcdn.com/bb.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "BBD",
+          "name": "Barbadian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BY",
+      "name": "Belarus",
+      "flagUrl": "https://flagcdn.com/by.svg",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "currencies": [
+        {
+          "code": "BYN",
+          "name": "Belarusian ruble",
+          "symbol": "Br",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BE",
+      "name": "Belgium",
+      "flagUrl": "https://flagcdn.com/be.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BZ",
+      "name": "Belize",
+      "flagUrl": "https://flagcdn.com/bz.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "BZD",
+          "name": "Belize dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BJ",
+      "name": "Benin",
+      "flagUrl": "https://flagcdn.com/bj.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "BM",
+      "name": "Bermuda",
+      "flagUrl": "https://flagcdn.com/bm.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "BMD",
+          "name": "Bermudian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BT",
+      "name": "Bhutan",
+      "flagUrl": "https://flagcdn.com/bt.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "BTN",
+          "name": "Bhutanese ngultrum",
+          "symbol": "Nu.",
+          "decimalDigits": 2
+        },
+        {
+          "code": "INR",
+          "name": "Indian rupee",
+          "symbol": "₹",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BO",
+      "name": "Bolivia",
+      "flagUrl": "https://flagcdn.com/bo.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "BOB",
+          "name": "Bolivian boliviano",
+          "symbol": "Bs.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "flagUrl": "https://flagcdn.com/ba.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "BAM",
+          "name": "Bosnia and Herzegovina convertible mark",
+          "symbol": "KM",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BW",
+      "name": "Botswana",
+      "flagUrl": "https://flagcdn.com/bw.svg",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "currencies": [
+        {
+          "code": "BWP",
+          "name": "Botswana pula",
+          "symbol": "P",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BR",
+      "name": "Brazil",
+      "flagUrl": "https://flagcdn.com/br.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "BRL",
+          "name": "Brazilian real",
+          "symbol": "R$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IO",
+      "name": "British Indian Ocean Territory",
+      "flagUrl": "https://flagcdn.com/io.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "VG",
+      "name": "British Virgin Islands",
+      "flagUrl": "https://flagcdn.com/vg.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BN",
+      "name": "Brunei",
+      "flagUrl": "https://flagcdn.com/bn.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "BND",
+          "name": "Brunei dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "SGD",
+          "name": "Singapore dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BG",
+      "name": "Bulgaria",
+      "flagUrl": "https://flagcdn.com/bg.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BF",
+      "name": "Burkina Faso",
+      "flagUrl": "https://flagcdn.com/bf.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "BI",
+      "name": "Burundi",
+      "flagUrl": "https://flagcdn.com/bi.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "BIF",
+          "name": "Burundian franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "KH",
+      "name": "Cambodia",
+      "flagUrl": "https://flagcdn.com/kh.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "KHR",
+          "name": "Cambodian riel",
+          "symbol": "៛",
+          "decimalDigits": 2
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CM",
+      "name": "Cameroon",
+      "flagUrl": "https://flagcdn.com/cm.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "CA",
+      "name": "Canada",
+      "flagUrl": "https://flagcdn.com/ca.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "CAD",
+          "name": "Canadian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CV",
+      "name": "Cape Verde",
+      "flagUrl": "https://flagcdn.com/cv.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "CVE",
+          "name": "Cape Verdean escudo",
+          "symbol": "Esc",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "BQ",
+      "name": "Caribbean Netherlands",
+      "flagUrl": "https://flagcdn.com/bq.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KY",
+      "name": "Cayman Islands",
+      "flagUrl": "https://flagcdn.com/ky.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "KYD",
+          "name": "Cayman Islands dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CF",
+      "name": "Central African Republic",
+      "flagUrl": "https://flagcdn.com/cf.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "TD",
+      "name": "Chad",
+      "flagUrl": "https://flagcdn.com/td.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "CL",
+      "name": "Chile",
+      "flagUrl": "https://flagcdn.com/cl.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "CLP",
+          "name": "Chilean peso",
+          "symbol": "$",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "CN",
+      "name": "China",
+      "flagUrl": "https://flagcdn.com/cn.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "CNY",
+          "name": "Chinese yuan",
+          "symbol": "¥",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CX",
+      "name": "Christmas Island",
+      "flagUrl": "https://flagcdn.com/cx.svg",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "flagUrl": "https://flagcdn.com/cc.svg",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CO",
+      "name": "Colombia",
+      "flagUrl": "https://flagcdn.com/co.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "COP",
+          "name": "Colombian peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KM",
+      "name": "Comoros",
+      "flagUrl": "https://flagcdn.com/km.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "KMF",
+          "name": "Comorian franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "CG",
+      "name": "Congo",
+      "flagUrl": "https://flagcdn.com/cg.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "CK",
+      "name": "Cook Islands",
+      "flagUrl": "https://flagcdn.com/ck.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "CKD",
+          "name": "Cook Islands dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CR",
+      "name": "Costa Rica",
+      "flagUrl": "https://flagcdn.com/cr.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "CRC",
+          "name": "Costa Rican colón",
+          "symbol": "₡",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "HR",
+      "name": "Croatia",
+      "flagUrl": "https://flagcdn.com/hr.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CU",
+      "name": "Cuba",
+      "flagUrl": "https://flagcdn.com/cu.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "CUC",
+          "name": "Cuban convertible peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "CUP",
+          "name": "Cuban peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CW",
+      "name": "Curaçao",
+      "flagUrl": "https://flagcdn.com/cw.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "ANG",
+          "name": "Netherlands Antillean guilder",
+          "symbol": "ƒ",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CY",
+      "name": "Cyprus",
+      "flagUrl": "https://flagcdn.com/cy.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CZ",
+      "name": "Czechia",
+      "flagUrl": "https://flagcdn.com/cz.svg",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "currencies": [
+        {
+          "code": "CZK",
+          "name": "Czech koruna",
+          "symbol": "Kč",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "DK",
+      "name": "Denmark",
+      "flagUrl": "https://flagcdn.com/dk.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "DKK",
+          "name": "Danish krone",
+          "symbol": "kr",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "DJ",
+      "name": "Djibouti",
+      "flagUrl": "https://flagcdn.com/dj.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "DJF",
+          "name": "Djiboutian franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "DM",
+      "name": "Dominica",
+      "flagUrl": "https://flagcdn.com/dm.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "DO",
+      "name": "Dominican Republic",
+      "flagUrl": "https://flagcdn.com/do.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "DOP",
+          "name": "Dominican peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CD",
+      "name": "DR Congo",
+      "flagUrl": "https://flagcdn.com/cd.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "CDF",
+          "name": "Congolese franc",
+          "symbol": "FC",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "EC",
+      "name": "Ecuador",
+      "flagUrl": "https://flagcdn.com/ec.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "EG",
+      "name": "Egypt",
+      "flagUrl": "https://flagcdn.com/eg.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "EGP",
+          "name": "Egyptian pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SV",
+      "name": "El Salvador",
+      "flagUrl": "https://flagcdn.com/sv.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GQ",
+      "name": "Equatorial Guinea",
+      "flagUrl": "https://flagcdn.com/gq.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "ER",
+      "name": "Eritrea",
+      "flagUrl": "https://flagcdn.com/er.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "ERN",
+          "name": "Eritrean nakfa",
+          "symbol": "Nfk",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "EE",
+      "name": "Estonia",
+      "flagUrl": "https://flagcdn.com/ee.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SZ",
+      "name": "Eswatini",
+      "flagUrl": "https://flagcdn.com/sz.svg",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "currencies": [
+        {
+          "code": "SZL",
+          "name": "Swazi lilangeni",
+          "symbol": "L",
+          "decimalDigits": 2
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ET",
+      "name": "Ethiopia",
+      "flagUrl": "https://flagcdn.com/et.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "ETB",
+          "name": "Ethiopian birr",
+          "symbol": "Br",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "FK",
+      "name": "Falkland Islands",
+      "flagUrl": "https://flagcdn.com/fk.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "FKP",
+          "name": "Falkland Islands pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "FO",
+      "name": "Faroe Islands",
+      "flagUrl": "https://flagcdn.com/fo.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "DKK",
+          "name": "Danish krone",
+          "symbol": "kr",
+          "decimalDigits": 2
+        },
+        {
+          "code": "FOK",
+          "name": "Faroese króna",
+          "symbol": "kr",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "FJ",
+      "name": "Fiji",
+      "flagUrl": "https://flagcdn.com/fj.svg",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "currencies": [
+        {
+          "code": "FJD",
+          "name": "Fijian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "FI",
+      "name": "Finland",
+      "flagUrl": "https://flagcdn.com/fi.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "FR",
+      "name": "France",
+      "flagUrl": "https://flagcdn.com/fr.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GF",
+      "name": "French Guiana",
+      "flagUrl": "https://flagcdn.com/gf.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PF",
+      "name": "French Polynesia",
+      "flagUrl": "https://flagcdn.com/pf.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "XPF",
+          "name": "CFP franc",
+          "symbol": "₣",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "TF",
+      "name": "French Southern and Antarctic Lands",
+      "flagUrl": "https://flagcdn.com/tf.svg",
+      "region": "Antarctic",
+      "subregion": "Unassigned",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GA",
+      "name": "Gabon",
+      "flagUrl": "https://flagcdn.com/ga.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "GM",
+      "name": "Gambia",
+      "flagUrl": "https://flagcdn.com/gm.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "GMD",
+          "name": "dalasi",
+          "symbol": "D",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GE",
+      "name": "Georgia",
+      "flagUrl": "https://flagcdn.com/ge.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "GEL",
+          "name": "lari",
+          "symbol": "₾",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "DE",
+      "name": "Germany",
+      "flagUrl": "https://flagcdn.com/de.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GH",
+      "name": "Ghana",
+      "flagUrl": "https://flagcdn.com/gh.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "GHS",
+          "name": "Ghanaian cedi",
+          "symbol": "₵",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GI",
+      "name": "Gibraltar",
+      "flagUrl": "https://flagcdn.com/gi.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "GIP",
+          "name": "Gibraltar pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GR",
+      "name": "Greece",
+      "flagUrl": "https://flagcdn.com/gr.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GL",
+      "name": "Greenland",
+      "flagUrl": "https://flagcdn.com/gl.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "DKK",
+          "name": "krone",
+          "symbol": "kr.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GD",
+      "name": "Grenada",
+      "flagUrl": "https://flagcdn.com/gd.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GP",
+      "name": "Guadeloupe",
+      "flagUrl": "https://flagcdn.com/gp.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GU",
+      "name": "Guam",
+      "flagUrl": "https://flagcdn.com/gu.svg",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GT",
+      "name": "Guatemala",
+      "flagUrl": "https://flagcdn.com/gt.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "GTQ",
+          "name": "Guatemalan quetzal",
+          "symbol": "Q",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GG",
+      "name": "Guernsey",
+      "flagUrl": "https://flagcdn.com/gg.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        },
+        {
+          "code": "GGP",
+          "name": "Guernsey pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GN",
+      "name": "Guinea",
+      "flagUrl": "https://flagcdn.com/gn.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "GNF",
+          "name": "Guinean franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "GW",
+      "name": "Guinea-Bissau",
+      "flagUrl": "https://flagcdn.com/gw.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "GY",
+      "name": "Guyana",
+      "flagUrl": "https://flagcdn.com/gy.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "GYD",
+          "name": "Guyanese dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "HT",
+      "name": "Haiti",
+      "flagUrl": "https://flagcdn.com/ht.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "HTG",
+          "name": "Haitian gourde",
+          "symbol": "G",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "HN",
+      "name": "Honduras",
+      "flagUrl": "https://flagcdn.com/hn.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "HNL",
+          "name": "Honduran lempira",
+          "symbol": "L",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "HK",
+      "name": "Hong Kong",
+      "flagUrl": "https://flagcdn.com/hk.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "HKD",
+          "name": "Hong Kong dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "HU",
+      "name": "Hungary",
+      "flagUrl": "https://flagcdn.com/hu.svg",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "currencies": [
+        {
+          "code": "HUF",
+          "name": "Hungarian forint",
+          "symbol": "Ft",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IS",
+      "name": "Iceland",
+      "flagUrl": "https://flagcdn.com/is.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "ISK",
+          "name": "Icelandic króna",
+          "symbol": "kr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "IN",
+      "name": "India",
+      "flagUrl": "https://flagcdn.com/in.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "INR",
+          "name": "Indian rupee",
+          "symbol": "₹",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ID",
+      "name": "Indonesia",
+      "flagUrl": "https://flagcdn.com/id.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "IDR",
+          "name": "Indonesian rupiah",
+          "symbol": "Rp",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IR",
+      "name": "Iran",
+      "flagUrl": "https://flagcdn.com/ir.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "IRR",
+          "name": "Iranian rial",
+          "symbol": "﷼",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IQ",
+      "name": "Iraq",
+      "flagUrl": "https://flagcdn.com/iq.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "IQD",
+          "name": "Iraqi dinar",
+          "symbol": "ع.د",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "IE",
+      "name": "Ireland",
+      "flagUrl": "https://flagcdn.com/ie.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IM",
+      "name": "Isle of Man",
+      "flagUrl": "https://flagcdn.com/im.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        },
+        {
+          "code": "IMP",
+          "name": "Manx pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IL",
+      "name": "Israel",
+      "flagUrl": "https://flagcdn.com/il.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "ILS",
+          "name": "Israeli new shekel",
+          "symbol": "₪",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "IT",
+      "name": "Italy",
+      "flagUrl": "https://flagcdn.com/it.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CI",
+      "name": "Ivory Coast",
+      "flagUrl": "https://flagcdn.com/ci.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "JM",
+      "name": "Jamaica",
+      "flagUrl": "https://flagcdn.com/jm.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "JMD",
+          "name": "Jamaican dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "JP",
+      "name": "Japan",
+      "flagUrl": "https://flagcdn.com/jp.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "JE",
+      "name": "Jersey",
+      "flagUrl": "https://flagcdn.com/je.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        },
+        {
+          "code": "JEP",
+          "name": "Jersey pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "JO",
+      "name": "Jordan",
+      "flagUrl": "https://flagcdn.com/jo.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "JOD",
+          "name": "Jordanian dinar",
+          "symbol": "د.ا",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "KZ",
+      "name": "Kazakhstan",
+      "flagUrl": "https://flagcdn.com/kz.svg",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "currencies": [
+        {
+          "code": "KZT",
+          "name": "Kazakhstani tenge",
+          "symbol": "₸",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KE",
+      "name": "Kenya",
+      "flagUrl": "https://flagcdn.com/ke.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "KES",
+          "name": "Kenyan shilling",
+          "symbol": "Sh",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KI",
+      "name": "Kiribati",
+      "flagUrl": "https://flagcdn.com/ki.svg",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "KID",
+          "name": "Kiribati dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "XK",
+      "name": "Kosovo",
+      "flagUrl": "https://flagcdn.com/xk.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KW",
+      "name": "Kuwait",
+      "flagUrl": "https://flagcdn.com/kw.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "KWD",
+          "name": "Kuwaiti dinar",
+          "symbol": "د.ك",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "KG",
+      "name": "Kyrgyzstan",
+      "flagUrl": "https://flagcdn.com/kg.svg",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "currencies": [
+        {
+          "code": "KGS",
+          "name": "Kyrgyzstani som",
+          "symbol": "с",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LA",
+      "name": "Laos",
+      "flagUrl": "https://flagcdn.com/la.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "LAK",
+          "name": "Lao kip",
+          "symbol": "₭",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LV",
+      "name": "Latvia",
+      "flagUrl": "https://flagcdn.com/lv.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LB",
+      "name": "Lebanon",
+      "flagUrl": "https://flagcdn.com/lb.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "LBP",
+          "name": "Lebanese pound",
+          "symbol": "ل.ل",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LS",
+      "name": "Lesotho",
+      "flagUrl": "https://flagcdn.com/ls.svg",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "currencies": [
+        {
+          "code": "LSL",
+          "name": "Lesotho loti",
+          "symbol": "L",
+          "decimalDigits": 2
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LR",
+      "name": "Liberia",
+      "flagUrl": "https://flagcdn.com/lr.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "LRD",
+          "name": "Liberian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LY",
+      "name": "Libya",
+      "flagUrl": "https://flagcdn.com/ly.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "LYD",
+          "name": "Libyan dinar",
+          "symbol": "ل.د",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "LI",
+      "name": "Liechtenstein",
+      "flagUrl": "https://flagcdn.com/li.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc",
+          "symbol": "Fr",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LT",
+      "name": "Lithuania",
+      "flagUrl": "https://flagcdn.com/lt.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LU",
+      "name": "Luxembourg",
+      "flagUrl": "https://flagcdn.com/lu.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MO",
+      "name": "Macau",
+      "flagUrl": "https://flagcdn.com/mo.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "MOP",
+          "name": "Macanese pataca",
+          "symbol": "P",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MG",
+      "name": "Madagascar",
+      "flagUrl": "https://flagcdn.com/mg.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "MGA",
+          "name": "Malagasy ariary",
+          "symbol": "Ar",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "MW",
+      "name": "Malawi",
+      "flagUrl": "https://flagcdn.com/mw.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "MWK",
+          "name": "Malawian kwacha",
+          "symbol": "MK",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MY",
+      "name": "Malaysia",
+      "flagUrl": "https://flagcdn.com/my.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "MYR",
+          "name": "Malaysian ringgit",
+          "symbol": "RM",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MV",
+      "name": "Maldives",
+      "flagUrl": "https://flagcdn.com/mv.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "MVR",
+          "name": "Maldivian rufiyaa",
+          "symbol": ".ރ",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ML",
+      "name": "Mali",
+      "flagUrl": "https://flagcdn.com/ml.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "MT",
+      "name": "Malta",
+      "flagUrl": "https://flagcdn.com/mt.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MH",
+      "name": "Marshall Islands",
+      "flagUrl": "https://flagcdn.com/mh.svg",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MQ",
+      "name": "Martinique",
+      "flagUrl": "https://flagcdn.com/mq.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MR",
+      "name": "Mauritania",
+      "flagUrl": "https://flagcdn.com/mr.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "MRU",
+          "name": "Mauritanian ouguiya",
+          "symbol": "UM",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MU",
+      "name": "Mauritius",
+      "flagUrl": "https://flagcdn.com/mu.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "MUR",
+          "name": "Mauritian rupee",
+          "symbol": "₨",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "YT",
+      "name": "Mayotte",
+      "flagUrl": "https://flagcdn.com/yt.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MX",
+      "name": "Mexico",
+      "flagUrl": "https://flagcdn.com/mx.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "MXN",
+          "name": "Mexican peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MD",
+      "name": "Moldova",
+      "flagUrl": "https://flagcdn.com/md.svg",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "currencies": [
+        {
+          "code": "MDL",
+          "name": "Moldovan leu",
+          "symbol": "L",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MC",
+      "name": "Monaco",
+      "flagUrl": "https://flagcdn.com/mc.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MN",
+      "name": "Mongolia",
+      "flagUrl": "https://flagcdn.com/mn.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "MNT",
+          "name": "Mongolian tögrög",
+          "symbol": "₮",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ME",
+      "name": "Montenegro",
+      "flagUrl": "https://flagcdn.com/me.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MS",
+      "name": "Montserrat",
+      "flagUrl": "https://flagcdn.com/ms.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MA",
+      "name": "Morocco",
+      "flagUrl": "https://flagcdn.com/ma.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "MAD",
+          "name": "Moroccan dirham",
+          "symbol": "د.م.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MZ",
+      "name": "Mozambique",
+      "flagUrl": "https://flagcdn.com/mz.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "MZN",
+          "name": "Mozambican metical",
+          "symbol": "MT",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MM",
+      "name": "Myanmar",
+      "flagUrl": "https://flagcdn.com/mm.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "MMK",
+          "name": "Burmese kyat",
+          "symbol": "Ks",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NA",
+      "name": "Namibia",
+      "flagUrl": "https://flagcdn.com/na.svg",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "currencies": [
+        {
+          "code": "NAD",
+          "name": "Namibian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NR",
+      "name": "Nauru",
+      "flagUrl": "https://flagcdn.com/nr.svg",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NP",
+      "name": "Nepal",
+      "flagUrl": "https://flagcdn.com/np.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "NPR",
+          "name": "Nepalese rupee",
+          "symbol": "₨",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NL",
+      "name": "Netherlands",
+      "flagUrl": "https://flagcdn.com/nl.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NC",
+      "name": "New Caledonia",
+      "flagUrl": "https://flagcdn.com/nc.svg",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "currencies": [
+        {
+          "code": "XPF",
+          "name": "CFP franc",
+          "symbol": "₣",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "NZ",
+      "name": "New Zealand",
+      "flagUrl": "https://flagcdn.com/nz.svg",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NI",
+      "name": "Nicaragua",
+      "flagUrl": "https://flagcdn.com/ni.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "NIO",
+          "name": "Nicaraguan córdoba",
+          "symbol": "C$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NE",
+      "name": "Niger",
+      "flagUrl": "https://flagcdn.com/ne.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "NG",
+      "name": "Nigeria",
+      "flagUrl": "https://flagcdn.com/ng.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "NGN",
+          "name": "Nigerian naira",
+          "symbol": "₦",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NU",
+      "name": "Niue",
+      "flagUrl": "https://flagcdn.com/nu.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NF",
+      "name": "Norfolk Island",
+      "flagUrl": "https://flagcdn.com/nf.svg",
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KP",
+      "name": "North Korea",
+      "flagUrl": "https://flagcdn.com/kp.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "KPW",
+          "name": "North Korean won",
+          "symbol": "₩",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MK",
+      "name": "North Macedonia",
+      "flagUrl": "https://flagcdn.com/mk.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "MKD",
+          "name": "denar",
+          "symbol": "den",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MP",
+      "name": "Northern Mariana Islands",
+      "flagUrl": "https://flagcdn.com/mp.svg",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "NO",
+      "name": "Norway",
+      "flagUrl": "https://flagcdn.com/no.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "NOK",
+          "name": "Norwegian krone",
+          "symbol": "kr",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "OM",
+      "name": "Oman",
+      "flagUrl": "https://flagcdn.com/om.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "OMR",
+          "name": "Omani rial",
+          "symbol": "ر.ع.",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "PK",
+      "name": "Pakistan",
+      "flagUrl": "https://flagcdn.com/pk.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "PKR",
+          "name": "Pakistani rupee",
+          "symbol": "₨",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PW",
+      "name": "Palau",
+      "flagUrl": "https://flagcdn.com/pw.svg",
+      "region": "Oceania",
+      "subregion": "Micronesia",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PS",
+      "name": "Palestine",
+      "flagUrl": "https://flagcdn.com/ps.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "EGP",
+          "name": "Egyptian pound",
+          "symbol": "E£",
+          "decimalDigits": 2
+        },
+        {
+          "code": "ILS",
+          "name": "Israeli new shekel",
+          "symbol": "₪",
+          "decimalDigits": 2
+        },
+        {
+          "code": "JOD",
+          "name": "Jordanian dinar",
+          "symbol": "JD",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "PA",
+      "name": "Panama",
+      "flagUrl": "https://flagcdn.com/pa.svg",
+      "region": "Americas",
+      "subregion": "Central America",
+      "currencies": [
+        {
+          "code": "PAB",
+          "name": "Panamanian balboa",
+          "symbol": "B/.",
+          "decimalDigits": 2
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PG",
+      "name": "Papua New Guinea",
+      "flagUrl": "https://flagcdn.com/pg.svg",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "currencies": [
+        {
+          "code": "PGK",
+          "name": "Papua New Guinean kina",
+          "symbol": "K",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PY",
+      "name": "Paraguay",
+      "flagUrl": "https://flagcdn.com/py.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "PYG",
+          "name": "Paraguayan guaraní",
+          "symbol": "₲",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "PE",
+      "name": "Peru",
+      "flagUrl": "https://flagcdn.com/pe.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "PEN",
+          "name": "Peruvian sol",
+          "symbol": "S/.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PH",
+      "name": "Philippines",
+      "flagUrl": "https://flagcdn.com/ph.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "PHP",
+          "name": "Philippine peso",
+          "symbol": "₱",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PN",
+      "name": "Pitcairn Islands",
+      "flagUrl": "https://flagcdn.com/pn.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PL",
+      "name": "Poland",
+      "flagUrl": "https://flagcdn.com/pl.svg",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "currencies": [
+        {
+          "code": "PLN",
+          "name": "Polish złoty",
+          "symbol": "zł",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PT",
+      "name": "Portugal",
+      "flagUrl": "https://flagcdn.com/pt.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PR",
+      "name": "Puerto Rico",
+      "flagUrl": "https://flagcdn.com/pr.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "QA",
+      "name": "Qatar",
+      "flagUrl": "https://flagcdn.com/qa.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "QAR",
+          "name": "Qatari riyal",
+          "symbol": "ر.ق",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "RE",
+      "name": "Réunion",
+      "flagUrl": "https://flagcdn.com/re.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "RO",
+      "name": "Romania",
+      "flagUrl": "https://flagcdn.com/ro.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "RON",
+          "name": "Romanian leu",
+          "symbol": "lei",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "RU",
+      "name": "Russia",
+      "flagUrl": "https://flagcdn.com/ru.svg",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "currencies": [
+        {
+          "code": "RUB",
+          "name": "Russian ruble",
+          "symbol": "₽",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "RW",
+      "name": "Rwanda",
+      "flagUrl": "https://flagcdn.com/rw.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "RWF",
+          "name": "Rwandan franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "BL",
+      "name": "Saint Barthélemy",
+      "flagUrl": "https://flagcdn.com/bl.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SH",
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "flagUrl": "https://flagcdn.com/sh.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "Pound sterling",
+          "symbol": "£",
+          "decimalDigits": 2
+        },
+        {
+          "code": "SHP",
+          "name": "Saint Helena pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KN",
+      "name": "Saint Kitts and Nevis",
+      "flagUrl": "https://flagcdn.com/kn.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LC",
+      "name": "Saint Lucia",
+      "flagUrl": "https://flagcdn.com/lc.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "MF",
+      "name": "Saint Martin",
+      "flagUrl": "https://flagcdn.com/mf.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "flagUrl": "https://flagcdn.com/pm.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "flagUrl": "https://flagcdn.com/vc.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "XCD",
+          "name": "Eastern Caribbean dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "WS",
+      "name": "Samoa",
+      "flagUrl": "https://flagcdn.com/ws.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "WST",
+          "name": "Samoan tālā",
+          "symbol": "T",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SM",
+      "name": "San Marino",
+      "flagUrl": "https://flagcdn.com/sm.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ST",
+      "name": "São Tomé and Príncipe",
+      "flagUrl": "https://flagcdn.com/st.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "STN",
+          "name": "São Tomé and Príncipe dobra",
+          "symbol": "Db",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SA",
+      "name": "Saudi Arabia",
+      "flagUrl": "https://flagcdn.com/sa.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "SAR",
+          "name": "Saudi riyal",
+          "symbol": "ر.س",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SN",
+      "name": "Senegal",
+      "flagUrl": "https://flagcdn.com/sn.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "RS",
+      "name": "Serbia",
+      "flagUrl": "https://flagcdn.com/rs.svg",
+      "region": "Europe",
+      "subregion": "Southeast Europe",
+      "currencies": [
+        {
+          "code": "RSD",
+          "name": "Serbian dinar",
+          "symbol": "дин.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SC",
+      "name": "Seychelles",
+      "flagUrl": "https://flagcdn.com/sc.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "SCR",
+          "name": "Seychellois rupee",
+          "symbol": "₨",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SL",
+      "name": "Sierra Leone",
+      "flagUrl": "https://flagcdn.com/sl.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "SLL",
+          "name": "Sierra Leonean leone",
+          "symbol": "Le",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SG",
+      "name": "Singapore",
+      "flagUrl": "https://flagcdn.com/sg.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "SGD",
+          "name": "Singapore dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SX",
+      "name": "Sint Maarten",
+      "flagUrl": "https://flagcdn.com/sx.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "ANG",
+          "name": "Netherlands Antillean guilder",
+          "symbol": "ƒ",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SK",
+      "name": "Slovakia",
+      "flagUrl": "https://flagcdn.com/sk.svg",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SI",
+      "name": "Slovenia",
+      "flagUrl": "https://flagcdn.com/si.svg",
+      "region": "Europe",
+      "subregion": "Central Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SB",
+      "name": "Solomon Islands",
+      "flagUrl": "https://flagcdn.com/sb.svg",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "currencies": [
+        {
+          "code": "SBD",
+          "name": "Solomon Islands dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SO",
+      "name": "Somalia",
+      "flagUrl": "https://flagcdn.com/so.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "SOS",
+          "name": "Somali shilling",
+          "symbol": "Sh",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ZA",
+      "name": "South Africa",
+      "flagUrl": "https://flagcdn.com/za.svg",
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "currencies": [
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "R",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GS",
+      "name": "South Georgia",
+      "flagUrl": "https://flagcdn.com/gs.svg",
+      "region": "Antarctic",
+      "subregion": "Unassigned",
+      "currencies": [
+        {
+          "code": "SHP",
+          "name": "Saint Helena pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "KR",
+      "name": "South Korea",
+      "flagUrl": "https://flagcdn.com/kr.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "KRW",
+          "name": "South Korean won",
+          "symbol": "₩",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "SS",
+      "name": "South Sudan",
+      "flagUrl": "https://flagcdn.com/ss.svg",
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "currencies": [
+        {
+          "code": "SSP",
+          "name": "South Sudanese pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ES",
+      "name": "Spain",
+      "flagUrl": "https://flagcdn.com/es.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "LK",
+      "name": "Sri Lanka",
+      "flagUrl": "https://flagcdn.com/lk.svg",
+      "region": "Asia",
+      "subregion": "Southern Asia",
+      "currencies": [
+        {
+          "code": "LKR",
+          "name": "Sri Lankan rupee",
+          "symbol": "Rs රු",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SD",
+      "name": "Sudan",
+      "flagUrl": "https://flagcdn.com/sd.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "SDG",
+          "name": "Sudanese pound",
+          "symbol": "PT",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SR",
+      "name": "Suriname",
+      "flagUrl": "https://flagcdn.com/sr.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "SRD",
+          "name": "Surinamese dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "flagUrl": "https://flagcdn.com/sj.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "NOK",
+          "name": "krone",
+          "symbol": "kr",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SE",
+      "name": "Sweden",
+      "flagUrl": "https://flagcdn.com/se.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "SEK",
+          "name": "Swedish krona",
+          "symbol": "kr",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "CH",
+      "name": "Switzerland",
+      "flagUrl": "https://flagcdn.com/ch.svg",
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "currencies": [
+        {
+          "code": "CHF",
+          "name": "Swiss franc",
+          "symbol": "Fr.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "SY",
+      "name": "Syria",
+      "flagUrl": "https://flagcdn.com/sy.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "SYP",
+          "name": "Syrian pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TW",
+      "name": "Taiwan",
+      "flagUrl": "https://flagcdn.com/tw.svg",
+      "region": "Asia",
+      "subregion": "Eastern Asia",
+      "currencies": [
+        {
+          "code": "TWD",
+          "name": "New Taiwan dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TJ",
+      "name": "Tajikistan",
+      "flagUrl": "https://flagcdn.com/tj.svg",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "currencies": [
+        {
+          "code": "TJS",
+          "name": "Tajikistani somoni",
+          "symbol": "ЅМ",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TZ",
+      "name": "Tanzania",
+      "flagUrl": "https://flagcdn.com/tz.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "TZS",
+          "name": "Tanzanian shilling",
+          "symbol": "Sh",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TH",
+      "name": "Thailand",
+      "flagUrl": "https://flagcdn.com/th.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "THB",
+          "name": "Thai baht",
+          "symbol": "฿",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TL",
+      "name": "Timor-Leste",
+      "flagUrl": "https://flagcdn.com/tl.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TG",
+      "name": "Togo",
+      "flagUrl": "https://flagcdn.com/tg.svg",
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "currencies": [
+        {
+          "code": "XOF",
+          "name": "West African CFA franc",
+          "symbol": "Fr",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "TK",
+      "name": "Tokelau",
+      "flagUrl": "https://flagcdn.com/tk.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "NZD",
+          "name": "New Zealand dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TO",
+      "name": "Tonga",
+      "flagUrl": "https://flagcdn.com/to.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "TOP",
+          "name": "Tongan paʻanga",
+          "symbol": "T$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TT",
+      "name": "Trinidad and Tobago",
+      "flagUrl": "https://flagcdn.com/tt.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "TTD",
+          "name": "Trinidad and Tobago dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TN",
+      "name": "Tunisia",
+      "flagUrl": "https://flagcdn.com/tn.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "TND",
+          "name": "Tunisian dinar",
+          "symbol": "د.ت",
+          "decimalDigits": 3
+        }
+      ]
+    },
+    {
+      "cca2": "TR",
+      "name": "Türkiye",
+      "flagUrl": "https://flagcdn.com/tr.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "TRY",
+          "name": "Turkish lira",
+          "symbol": "₺",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TM",
+      "name": "Turkmenistan",
+      "flagUrl": "https://flagcdn.com/tm.svg",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "currencies": [
+        {
+          "code": "TMT",
+          "name": "Turkmenistan manat",
+          "symbol": "m",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TC",
+      "name": "Turks and Caicos Islands",
+      "flagUrl": "https://flagcdn.com/tc.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "TV",
+      "name": "Tuvalu",
+      "flagUrl": "https://flagcdn.com/tv.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "TVD",
+          "name": "Tuvaluan dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "UG",
+      "name": "Uganda",
+      "flagUrl": "https://flagcdn.com/ug.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "UGX",
+          "name": "Ugandan shilling",
+          "symbol": "Sh",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "UA",
+      "name": "Ukraine",
+      "flagUrl": "https://flagcdn.com/ua.svg",
+      "region": "Europe",
+      "subregion": "Eastern Europe",
+      "currencies": [
+        {
+          "code": "UAH",
+          "name": "Ukrainian hryvnia",
+          "symbol": "₴",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "AE",
+      "name": "United Arab Emirates",
+      "flagUrl": "https://flagcdn.com/ae.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "AED",
+          "name": "United Arab Emirates dirham",
+          "symbol": "د.إ",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "GB",
+      "name": "United Kingdom",
+      "flagUrl": "https://flagcdn.com/gb.svg",
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "currencies": [
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "US",
+      "name": "United States",
+      "flagUrl": "https://flagcdn.com/us.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "UM",
+      "name": "United States Minor Outlying Islands",
+      "flagUrl": "https://flagcdn.com/um.svg",
+      "region": "Americas",
+      "subregion": "North America",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "VI",
+      "name": "United States Virgin Islands",
+      "flagUrl": "https://flagcdn.com/vi.svg",
+      "region": "Americas",
+      "subregion": "Caribbean",
+      "currencies": [
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "UY",
+      "name": "Uruguay",
+      "flagUrl": "https://flagcdn.com/uy.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "UYU",
+          "name": "Uruguayan peso",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "UZ",
+      "name": "Uzbekistan",
+      "flagUrl": "https://flagcdn.com/uz.svg",
+      "region": "Asia",
+      "subregion": "Central Asia",
+      "currencies": [
+        {
+          "code": "UZS",
+          "name": "Uzbekistani soʻm",
+          "symbol": "so'm",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "VU",
+      "name": "Vanuatu",
+      "flagUrl": "https://flagcdn.com/vu.svg",
+      "region": "Oceania",
+      "subregion": "Melanesia",
+      "currencies": [
+        {
+          "code": "VUV",
+          "name": "Vanuatu vatu",
+          "symbol": "Vt",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "VA",
+      "name": "Vatican City",
+      "flagUrl": "https://flagcdn.com/va.svg",
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "VE",
+      "name": "Venezuela",
+      "flagUrl": "https://flagcdn.com/ve.svg",
+      "region": "Americas",
+      "subregion": "South America",
+      "currencies": [
+        {
+          "code": "VES",
+          "name": "Venezuelan bolívar soberano",
+          "symbol": "Bs.S.",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "VN",
+      "name": "Vietnam",
+      "flagUrl": "https://flagcdn.com/vn.svg",
+      "region": "Asia",
+      "subregion": "South-Eastern Asia",
+      "currencies": [
+        {
+          "code": "VND",
+          "name": "Vietnamese đồng",
+          "symbol": "₫",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "WF",
+      "name": "Wallis and Futuna",
+      "flagUrl": "https://flagcdn.com/wf.svg",
+      "region": "Oceania",
+      "subregion": "Polynesia",
+      "currencies": [
+        {
+          "code": "XPF",
+          "name": "CFP franc",
+          "symbol": "₣",
+          "decimalDigits": 0
+        }
+      ]
+    },
+    {
+      "cca2": "EH",
+      "name": "Western Sahara",
+      "flagUrl": "https://flagcdn.com/eh.svg",
+      "region": "Africa",
+      "subregion": "Northern Africa",
+      "currencies": [
+        {
+          "code": "DZD",
+          "name": "Algerian dinar",
+          "symbol": "دج",
+          "decimalDigits": 2
+        },
+        {
+          "code": "MAD",
+          "name": "Moroccan dirham",
+          "symbol": "DH",
+          "decimalDigits": 2
+        },
+        {
+          "code": "MRU",
+          "name": "Mauritanian ouguiya",
+          "symbol": "UM",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "YE",
+      "name": "Yemen",
+      "flagUrl": "https://flagcdn.com/ye.svg",
+      "region": "Asia",
+      "subregion": "Western Asia",
+      "currencies": [
+        {
+          "code": "YER",
+          "name": "Yemeni rial",
+          "symbol": "﷼",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ZM",
+      "name": "Zambia",
+      "flagUrl": "https://flagcdn.com/zm.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "ZMW",
+          "name": "Zambian kwacha",
+          "symbol": "ZK",
+          "decimalDigits": 2
+        }
+      ]
+    },
+    {
+      "cca2": "ZW",
+      "name": "Zimbabwe",
+      "flagUrl": "https://flagcdn.com/zw.svg",
+      "region": "Africa",
+      "subregion": "Eastern Africa",
+      "currencies": [
+        {
+          "code": "BWP",
+          "name": "Botswana pula",
+          "symbol": "P",
+          "decimalDigits": 2
+        },
+        {
+          "code": "CNY",
+          "name": "Chinese yuan",
+          "symbol": "¥",
+          "decimalDigits": 2
+        },
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€",
+          "decimalDigits": 2
+        },
+        {
+          "code": "GBP",
+          "name": "British pound",
+          "symbol": "£",
+          "decimalDigits": 2
+        },
+        {
+          "code": "INR",
+          "name": "Indian rupee",
+          "symbol": "₹",
+          "decimalDigits": 2
+        },
+        {
+          "code": "JPY",
+          "name": "Japanese yen",
+          "symbol": "¥",
+          "decimalDigits": 0
+        },
+        {
+          "code": "USD",
+          "name": "United States dollar",
+          "symbol": "$",
+          "decimalDigits": 2
+        },
+        {
+          "code": "ZAR",
+          "name": "South African rand",
+          "symbol": "Rs",
+          "decimalDigits": 2
+        },
+        {
+          "code": "ZWB",
+          "name": "Zimbabwean bonds",
+          "symbol": "$",
+          "decimalDigits": 2
+        }
+      ]
+    }
+  ]
+}

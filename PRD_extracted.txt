@@ -1,0 +1,224 @@
+
+
+===== PAGE 1 =====
+GLOBAL MONEY COMPANION 
+Master Project Requirements Document (PRD) 
+Revision 2 — tightened for AI-agent / autonomous build use 
+Revision Notes 
+This revision keeps every requirement from the original PRD and adds the sections needed to hand this document 
+directly to an AI coding agent (or a developer) with minimal ambiguity. Additions and changes are marked inline: 
+• [NEW] — a section that did not exist before 
+• [TIGHTENED] — an existing requirement made concrete/testable 
+Project Title 
+Global Money Companion 
+Project Overview 
+Build a modern, responsive, production-quality web application called Global Money Companion. 
+The application helps users understand the value of money across different countries — not only through live 
+currency conversion but also through purchasing power comparisons (PPP), historical exchange rates, and a world 
+explorer for currencies. 
+The application should have a premium fintech-inspired UI and be suitable as a portfolio-quality project. 
+Objective 
+The application should answer both: 
+• ‘100 USD equals how many INR?’ 
+• ‘If someone earns ₹25,000/month in India, what salary provides a similar purchasing power in the USA?’ 
+Clearly distinguish between exchange-rate conversion and purchasing power (PPP). 
+Target Users 
+• Students 
+• Travelers 
+• Professionals moving abroad 
+• Remote workers 
+• Freelancers 
+• Job seekers 
+• Anyone interested in global currencies 
+Technology Stack 
+• React 
+
+===== PAGE 2 =====
+• Vite 
+• TypeScript 
+• Tailwind CSS 
+• React Router 
+• Chart.js or Recharts 
+• React Context API 
+• Local Storage 
+• Fetch API 
+Only free technologies and services. 
+APIs & Data Sources 
+Exchange Rates: Frankfurter API (frankfurter.dev) — free, no key required. 
+Country Information: REST Countries API (restcountries.com) — free, no key required. 
+PPP Data: World Bank ICP 2021 round — “PPP conversion factor, GDP (LCU per international $)”, indicator 
+code PA.NUS.PPP, downloaded as CSV from the World Bank Open Data API.   [TIGHTENED] 
+• Store the dataset locally as src/data/ppp-2021.json (converted from the World Bank CSV at build time, not 
+fetched live). 
+• Record the indicator code and vintage year in the file alongside the data so future updates are traceable. 
+Data Contracts 
+Shared TypeScript interfaces that every feature must use, so the Converter, Salary Comparison, Favorites, and 
+World Explorer stay consistent with one another instead of each inventing its own shape. 
+Interface Shape 
+Currency code (ISO 4217), name, symbol, decimalDigits 
+Country cca2, name, flagUrl, region, subregion, currencies: Currency[] 
+ExchangeRate base, target, rate, date, source: 'live' | 'cached' 
+PPPEntry countryCode, year, pppConversionFactor, currencyCode, sourceDataset 
+SalaryComparison amount, fromCountry, toCountry, exchangeRateResult, pppResult, createdAt 
+FavoritePair id, type: 'currency' | 'salary', base, target, label, createdAt 
+ 
+Favorites store the minimal FavoritePair record, not full snapshots — always re-resolve rate/PPP data on load 
+so saved favorites never show stale numbers. 
+Folder Structure 
+src/ 
+• components/ 
+• pages/ 
+• services/ 
+• hooks/ 
+• utils/ 
+
+===== PAGE 3 =====
+• types/ 
+• context/ 
+• assets/ 
+• data/ 
+App.tsx 
+UI Theme 
+Primary visual reference: Wise’s flat, high-contrast color-block style (not a blend of Wise/Revolut/Stripe/Apple 
+Wallet — pick one primary reference to keep the agent’s design decisions consistent).   [TIGHTENED] 
+• Responsive 
+• Mobile-first 
+• Dark & Light mode 
+• Rounded cards 
+• Smooth animations 
+• Premium typography 
+• Glassmorphism where appropriate 
+Feature 1 — Home Dashboard 
+Display: 
+• Quick Currency Converter 
+• Favorite currency pairs 
+• Latest exchange rates 
+• Recent salary comparisons 
+• Recently viewed countries 
+Acceptance criteria:   [TIGHTENED] 
+• Dashboard renders with zero saved data (empty states for each widget), not a blank page. 
+• All widget data reads from Local Storage / Context, no duplicate network calls per widget. 
+Feature 2 — Currency Converter 
+Convert any currency using live exchange rates. 
+Features: 
+• Search by country/currency 
+• Reverse conversion 
+• Favorites 
+• Last updated timestamp 
+• Responsive design 
+Acceptance criteria:   [TIGHTENED] 
+• Debounce amount input (300ms) before triggering conversion. 
+• Reverse conversion swaps base/target and re-fetches, not just flips displayed numbers. 
+
+===== PAGE 4 =====
+Feature 3 — Salary & Purchasing Power Comparison 
+Input a salary and compare it with another country. 
+Display: 
+• Exchange-rate conversion 
+• PPP equivalent salary 
+• Plain-language explanation of why the values differ 
+Always use official PPP conversion factors. 
+Acceptance criteria:   [TIGHTENED] 
+• If PPP data is missing for the selected country, disable that result panel with an explicit message (see Error 
+Handling). 
+• Explanation text is generated from a template, not hard-coded per country pair. 
+Feature 4 — Historical Exchange Rates 
+Interactive charts for: 
+• 7 Days 
+• 30 Days 
+• 6 Months 
+• 1 Year 
+• 5 Years 
+Acceptance criteria:   [TIGHTENED] 
+• Cache each range's response in Local Storage keyed by pair + range, with a TTL of 1 hour, to reduce 
+redundant API calls. 
+Feature 5 — Favorites 
+Save currency pairs and salary comparison pairs using Local Storage. No login required. 
+Feature 6 — World Explorer 
+Display all countries with: 
+• Flag 
+• Country name 
+• Currency name 
+• Currency code 
+• Currency symbol 
+Allow search and continent filtering. Country detail page should include currency information, exchange rate, and 
+PPP summary. 
+Navigation 
+Routes: 
+
+===== PAGE 5 =====
+• / 
+• /converter 
+• /salary-comparison 
+• /history 
+• /explorer 
+• /favorites 
+State Management 
+Use React Context API. Avoid Redux unless necessary. 
+Data Storage 
+Store favorites, theme preference, recent comparisons, and last selected currencies using Local Storage. 
+Charts 
+Use Chart.js or Recharts. Charts must be responsive. 
+Search 
+Support searching by: 
+• Country name 
+• Currency name 
+• Currency code 
+Performance 
+Implement lazy loading, code splitting, caching where appropriate, optimized API calls, and responsive layouts. 
+Accessibility 
+Target: WCAG 2.1 AA.   [TIGHTENED] 
+• Semantic HTML 
+• Keyboard navigation 
+• ARIA labels 
+• Color contrast ratio ≥ 4.5:1 for body text, ≥ 3:1 for large text 
+Error Handling 
+Gracefully handle the following, with the specific required behavior below rather than a generic error message:   
+[TIGHTENED] 
+
+===== PAGE 6 =====
+Scenario Required Behavior 
+Frankfurter API down / times out Fall back to last cached rate in Local Storage; show a 'stale data' badge with 
+the cached timestamp. Never show a blank screen. 
+REST Countries API down / 
+times out 
+Fall back to a bundled static JSON snapshot of country/currency metadata 
+shipped with the app. 
+No internet connection Detect via navigator.onLine + fetch failure; show a persistent offline banner; 
+disable actions that require live data. 
+Invalid currency code entered Inline validation error under the input; do not fire the API call. 
+No search results (World 
+Explorer) 
+Show an empty-state illustration/message, not a blank list. 
+PPP data missing for a country Disable PPP comparison for that country pair and show 'PPP data unavailable 
+for [country]' instead of a silent 0 or NaN. 
+Loading state Skeleton loaders on cards/tables, not spinners-only, for perceived 
+performance. 
+Deployment 
+Deploy free on Vercel or Netlify. No backend required. 
+Code Quality 
+Write production-quality, modular TypeScript code with reusable components, proper typing, maintainable 
+architecture, and a clean folder structure. 
+Deliverables 
+• Complete React application 
+• README.md 
+• Installation guide 
+• Responsive UI 
+• Working features 
+• Clean architecture 
+Important Notes 
+Use only free APIs and official datasets. Keep the application scalable. Separate business logic from UI. Follow 
+React and TypeScript best practices. 
+Development Plan 
+1. Setup React + Vite + TypeScript + Tailwind 
+2. Create folder structure, routing, and shared Data Contracts (types/) before building any feature 
+3. Build Home Dashboard 
+4. Implement Currency Converter 
+
+===== PAGE 7 =====
+5. Add PPP Salary Comparison 
+6. Build Historical Exchange Rates 
+7. Implement Favorites 
+8. Build World Explorer 
+9. Polish UI 
+10. Test and deploy 
